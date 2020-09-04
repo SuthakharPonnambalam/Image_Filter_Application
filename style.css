@@ -1,0 +1,73 @@
+canvas{
+  border: 8px inset MediumPurple;
+  margin: 30px;
+  width: 600px;
+  height: auto;  
+  
+}
+h1{
+  font-family: Comic Sans MS, Comic Sans;
+  font-size:40px;
+  text-align:center;
+  color:#CF3482;
+}
+
+h2.subHeading{
+  font-family: Comic Sans MS, Comic Sans;
+  text-align:center;
+  color:#5D271A ;
+  font-size: 28px;
+}
+h2.otherHeading{
+ font-family: Comic Sans MS, Comic Sans;
+  text-align:center;
+  color:#68b538 ;
+  font-size: 28px; 
+}
+body{
+  background-image:url(https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252_960_720.jpg)
+}
+
+#one{
+  margin:90px;
+  border: 2px solid red;
+  border-radius: 12px;
+}
+
+.fileInput{
+ font-family: Comic Sans MS, Comic Sans;
+  text-align:center;
+  color:#c96f36 ;
+  font-size: 28px; 
+}
+.button1{
+  font-size: 15pt;
+  font-family: 'Roboto', sans-serif;
+  background-color: #065e79;
+  padding: 5px 20px;
+  border: 2px outset #0a97c2;
+  border-radius: 10px;
+}
+
+.format{
+font-family: Comic Sans MS, Comic Sans;
+  text-align:center;
+  color:#7e2bad;
+  font-size: 28px;   
+}
+
+.button2{
+  font-family:Comic Sans MS, Comic Sans;
+  border-radius: 10px;
+  background-color: #065e79;
+  color:#21db62;
+  font-size:20px;
+}
+
+.reset{
+font-family:Comic Sans MS, Comic Sans;
+  border-radius: 10px;
+  font-size:30px;
+  color:#a32e74;
+  background-color:#065e79;
+}
